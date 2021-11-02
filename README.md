@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @chrismckevitt
-- 🌚  I’m currently learning React
+- 🌚  I’m currently learning life
 
 
 <!---
